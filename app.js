@@ -429,7 +429,7 @@ const STUDENTS = [
     meme: null, reason: null },
   { name: "LAIKHURAM DEBSON SINGH",
     roll: "NDUIBC2564", course: "BCA (4 Years)", section: "Section B",
-    meme: null, reason: null },
+    meme: "images/NDUIBC-2B-2564.png", reason: Phone pyraroi },
   { name: "GAIDINGLUNG",
     roll: "NDUIBC2565", course: "BCA (4 Years)", section: "Section B",
     meme: null, reason: null },
